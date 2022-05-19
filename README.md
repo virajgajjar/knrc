@@ -3,6 +3,8 @@ Solutions to all the exercises from "The C Programming Language - 2nd Edition" b
 
 Each solution will only use concepts that have been taught upto that point in the book.
 
+:warning: **Work in progress**
+
 ## Usage
 To compile and run a solution, navigate to the suitable directory and run:
 ```console
