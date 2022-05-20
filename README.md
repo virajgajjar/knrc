@@ -1,6 +1,7 @@
+# knrc
+
 [![build](https://github.com/virajgajjar/knrc/actions/workflows/main.yml/badge.svg)](https://github.com/virajgajjar/knrc/actions/workflows/main.yml)
 
-# knrc
 Solutions to all the exercises from "The C Programming Language - 2nd Edition" by K&R.
 
 Each solution will only use concepts that have been taught upto that point in the book.
