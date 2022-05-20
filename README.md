@@ -1,4 +1,4 @@
-[![build](https://github.com/virajgajjar/knrc/actions/workflows/c-cpp.yml/badge.svg?branch=master)](https://github.com/virajgajjar/knrc/actions/workflows/c-cpp.yml)
+[![C/C++ CI](https://github.com/virajgajjar/knrc/actions/workflows/c-cpp.yml/badge.svg?branch=master)](https://github.com/virajgajjar/knrc/actions/workflows/c-cpp.yml)
 
 # knrc
 Solutions to all the exercises from "The C Programming Language - 2nd Edition" by K&R.
