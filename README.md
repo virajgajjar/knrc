@@ -1,6 +1,6 @@
 # knrc
 
-[![build](https://github.com/virajgajjar/knrc/actions/workflows/main.yml/badge.svg)](https://github.com/virajgajjar/knrc/actions/workflows/main.yml)
+[![linux-build](https://github.com/virajgajjar/knrc/actions/workflows/main.yml/badge.svg)](https://github.com/virajgajjar/knrc/actions/workflows/main.yml)
 
 Solutions to all the exercises from "The C Programming Language - 2nd Edition" by K&R.
 
