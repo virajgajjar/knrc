@@ -4,7 +4,7 @@
 
 Solutions to all the exercises from "The C Programming Language - 2nd Edition" by K&R.
 
-Each solution will only use concepts that have been taught upto that point in the book.
+:heavy_exclamation_mark: **Each solution will only use concepts that have been taught upto that point in the book.**
 
 :warning: **Work in progress**
 
