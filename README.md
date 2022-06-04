@@ -6,6 +6,8 @@ Solutions to all the exercises from "The C Programming Language - 2nd Edition" b
 
 :heavy_exclamation_mark: **Each solution will only use concepts that have been taught upto that point in the book.**
 
+:heavy_exclamation_mark: **So, some solutions may look clumsy to an experienced programmer.**
+
 :warning: **Work in progress**
 
 ## Usage
